@@ -36,3 +36,19 @@
        text-align:center;
        p.dotted {border-style: dotted;}
    }
+   /* Styles for Page 3 */
+   .days {
+    list-style-position: inside;
+   }
+   .days li {
+    text-transform: uppercase;
+    color: blueviolet;
+    font-size: 200;
+   }
+   .flavors{
+    list-style-type: circle;
+   }
+   .flavors{
+    font-size: 1.2em;
+    text-transform: uppercase;
+   }
